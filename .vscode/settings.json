@@ -1,5 +1,5 @@
 {
-    "cSpell.language": "pt,pt-BR,en,en-US"
+    "cSpell.language": "pt,pt-BR,en,en-US",
     // If not specified searches for 'rubocop' executable available on PATH (default and recommended)
     "ruby.rubocop.executePath": "/home/jhonny/.rbenv/shims/",
 
@@ -9,8 +9,11 @@
     // "ruby.rubocop.executePath": "D:/bin/Ruby22-x64/bin/"
 
     // If not specified, it assumes a null value by default.
-    "ruby.rubocop.configFilePath": ".rubocop.yml",
+    "ruby.rubocop.configFilePath": "/mnt/3TB/Cursos/QA-Ninja/Ruby/.vscode/.rubocop.yml",
 
     // default true
-    "ruby.rubocop.onSave": true
+    "ruby.rubocop.onSave": true,
+    "cSpell.words": [
+        "Macbook",
+    ],
 }
